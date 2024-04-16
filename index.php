@@ -42,13 +42,7 @@ require_once "mhs.php";
                         <option value="">---- Pilih Mata Kuliah ----</option>
                         <option value="PHP">PHP</option>
                         <option value="JavaScript">JavaScript</option>
-                        <option value="MySQL">MySQL</option>
                         <option value="Laravel">Laravel</option>
-                        <option value="ReactJS">ReactJS</option>
-                        <option value="ExpressJS">ExpressJS</option>
-                        <option value="Basis Data">Basis Data</option>
-                        <option value="NextJS">NextJS</option>
-                        <option value="Pemrograman Backend">Pemrograman Backend</option>
                     </select>
                 </div>
                 <div class="mb-3">

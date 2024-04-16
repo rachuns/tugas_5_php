@@ -60,6 +60,6 @@ $mhs = new Mahasiswa($nama,$nim,$matkul,$kampus,$nilai);
     </div>
 </body>
 <footer>
-    <p class="text-center m-auto" style="position:absolute;bottom:0;">&copy;Hisyammubarak 2024</p>
+    <p class="text-center m-auto" style="position:absolute;bottom:0;">&copy;Rachmat Ashari 2024</p>
   </footer>
 </html>
