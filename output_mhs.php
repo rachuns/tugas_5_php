@@ -29,7 +29,7 @@ $mhs = new Mahasiswa($nama,$nim,$matkul,$kampus,$nilai);
     <h1 class="text-center mt-3">Daftar Nilai Ujian Mahasiswa</h1>
     <div class="container">
     <a class="btn btn-primary mt-4  " href="index.php" role="button"><-- Kembali</a>
-    <table border="1px" cellpadding="10" cellspacing="0" align="center" width="70%" class="table table-dark table-striped container mt-4">
+    <table border="1px" cellpadding="10" cellspacing="0" align="center" width="70%" class="table table-success table-striped container mt-4">
         <thead>
             <tr align="center">
                 <td>No</td>
